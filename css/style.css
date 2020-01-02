@@ -1,0 +1,22 @@
+/*caracteristicas do campo input como sua largura e espessura*/
+input{
+    /*                width: 20%;
+                    padding: 12px 20px;
+                    margin: 8px 0;
+                    box-sizing: border-box;*/
+    border: none;
+    border-bottom: 2px solid blue;
+}
+
+/*Caracteristicas do label/ titulo do input*/
+label {
+    padding: 12px 20px 12px 10px;
+    display: inline-block;
+}
+
+/*aqui preenche todo o espaço em cinza*/
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
